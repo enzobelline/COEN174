@@ -1,0 +1,467 @@
+ Abigail,$45000.00
+ Abigail K.,$45000.00
+ Adam,$55080.00
+ Adam P.,$100000.00
+ Adam S.,$51000.00
+ Adam W.,$66300.00
+ Alaina C.,$71400.00
+ Alan 0.,$61200.00
+ Alejandra M.,$60000.00
+ Alejandro,$130500.00
+ Alexander T. H.,$102829.00
+ Alison J.,$130500.00
+ Alison J.,$80000.00
+ Alison K.,$75000.00
+ Allison C.,$42000.00
+ Allison K.,$45000.00
+ Allison L.,$50000.00
+ Alyssa M.,$172200.00
+ Amanda D.,$60000.00
+ Amy J.,$78000.00
+ Anand,$42000.00
+ Andrea E.,$50000.00
+ Andrei M.,$80000.00
+ Andrew J.,$42000.00
+ Angela N.,$42000.00
+ Anita J.,$49069.00
+ Anna S.,$60000.00
+ Anne K.,$56100.00
+ Anne P.,$45000.00
+ Anthony V.,$45000.00
+ April P.,$42000.00
+ Araz ,$45000.00
+ Ashley R.,$45900.00
+ Astri B.,$85000.00
+ Avra C.,$50000.00
+ Benjamin C.,$78000.00
+ Benjamin E.,$45000.00
+ Benjamin N.,$45900.00
+ Benjamin W.,$55000.00
+ Beverly D.,$58511.00
+ Blake C.,$99000.00
+ Bradley D.,$55000.00
+ Bradley J.,$162900.00
+ Bradley W.,$110500.00
+ Brandon D.,$55000.00
+ Brian C.,$130500.00
+ Brian D.,$90000.00
+ Brian E.,$46745.00
+ Brian K.,$42738.00
+ Brian K.,$93840.00
+ Brian P.,$45000.00
+ Bryan,$50000.00
+ Caitlin G.,$60000.00
+ Caitlin L.,$50000.00
+ Camille Y.,$102000.00
+ Candice L.,$58511.00
+ Carlos P.,$56100.00
+ Caroline D.,$130500.00
+ Caroline E.,$42000.00
+ Caroline M.,$120000.00
+ Carol M.,$172200.00
+ Carrie S.,$56100.00
+ Catherine E.,$70000.00
+ Catherine M.,$85680.00
+ Cecilia,$153500.00
+ Chad L.,$60232.00
+ Charles D.,$51000.00
+ Charlie J.,$55000.00
+ Chase M.,$45900.00
+ Chelsea J.,$56100.00
+ Christina M.,$153500.00
+ Christopher D.,$130500.00
+ Christopher E.,$76500.00
+ Christopher,$50000.00
+ Christopher J.,$37826.00
+ Christopher P.,$172200.00
+ Cleo,$65393.00
+ Cody S.,$75000.00
+ Corey A.,$79560.00
+ Craig M.,$42000.00
+ Crystal B.,$84855.00
+ Cynthia L.,$100904.00
+ Dagoberto,$100000.00
+ Dana E.,$130500.00
+ Dana M.,$66000.00
+ Daniel A.,$158500.00
+ Daniel G.,$130000.00
+ Daniel J. T.,$55080.00
+ Daniella G.,$102000.00
+ Danielle C.,$130500.00
+ Danielle M.,$130000.00
+ Daren H.,$105211.00
+ Darienne M.,$42000.00
+ Darin R.,$62544.00
+ Darron P.,$61200.00
+ David A.,$149000.00
+ David A.,$45594.00
+ David E.,$129758.00
+ David F.,$45000.00
+ David F.,$51000.00
+ David J.,$102000.00
+ David L.,$55000.00
+ David M.,$100000.00
+ David M.,$172200.00
+ David P.,$93840.00
+ David R.,$42000.00
+ Deatrice N.,$43860.00
+ Deesha A.,$45000.00
+ Deilia A. L.,$42000.00
+ Denise R.,$130500.00
+ Denis R.,$147500.00
+ Derek R. B.,$120000.00
+ Desiree E.,$50000.00
+ Diana,$147500.00
+ Diana H.,$130500.00
+ Donald B.,$158500.00
+ Doris D.,$79864.00
+ Douglas J.,$155500.00
+ Elizabeth A.,$132009.00
+ Elizabeth A.,$100000.00
+ Elizabeth H.,$76500.00
+ Elizabeth J.,$37983.00
+ Elizabeth M.,$172200.00
+ Elizabeth P.,$100000.00
+ Elizabeth S.,$130000.00
+ Elizabeth S,$45900.00
+ Elizabeth W.,$45900.00
+ Ellie S.,$71400.00
+ Emily M.,$60000.00
+ Emmett S.,$130000.00
+ Eric P.,$60000.00
+ Erin E.,$66300.00
+ Erin M.,$89033.00
+ Erinn J.,$66300.00
+ Ethan A.,$94969.00
+ Eugene J.,$48095.00
+ Felicia A. ,$90000.00
+ Fiona O.,$51000.00
+ Frances J.,$44402.00
+ Frances L.,$100904.00
+ Frances M.,$80000.00
+ Frederick J.,$122744.00
+ Frederico C.,$50000.00
+ Gannet L.,$66300.00
+ Gary S.,$42000.00
+ George T.,$155500.00
+ Georgette T.,$45000.00
+ Gertrude A.,$89846.00
+ Graham D.,$42000.00
+ Grant E.,$45900.00
+ Gregorio A.,$115731.00
+ Gregory C.,$42000.00
+ Gregory E.,$45000.00
+ Gregory,$45900.00
+ Gregory J.,$130500.00
+ Gregory T.,$68230.00
+ Harrison A.,$42000.00
+ Harrison T.,$42000.00
+ Heather A.,$150000.00
+ Heather C.,$136134.00
+ Heather R.,$100000.00
+ Hilary J.,$42000.00
+ Howard D.,$172200.00
+ Howard W.,$51630.00
+ Howli J.,$42000.00
+ Ian H.,$45000.00
+ Ian M.,$99000.00
+ Ian P.,$45900.00
+ Ian T.,$42000.00
+ III,Employee
+ III,Employee
+ Ivan,$50000.00
+ IV,Employee
+ Jacob C.,$45000.00
+ Jamal A.,$42000.00
+ James A.,$172200.00
+ James ,$91800.00
+ James L.,$172200.00
+ James M.,$114000.00
+ James T.,$130500.00
+ Jane C.,$76500.00
+ Jason F.,$64548.00
+ Jason G.,$99000.00
+ Jason J.,$42000.00
+ Jason L.,$147500.00
+ Jeffrey B. W.,$76500.00
+ Jeffrey M.,$75000.00
+ Jeffrey S.,$102000.00
+ Jennifer C.,$85680.00
+ Jennifer D.,$107770.00
+ Jennifer,$63240.00
+ Jennifer F.,$66300.00
+ Jennifer R.,$150000.00
+ Jesse C.,$71400.00
+ Jesse M.,$42000.00
+ Jessica N.,$96900.00
+ Jill A.,$51000.00
+ Joan C.,$56791.00
+ Joan L.,$60000.00
+ Joanna G.,$102000.00
+ Jocelyn C.,$140000.00
+ Jodi A.,$71400.00
+ Joelle L.,$65000.00
+ Johanna M.,$56100.00
+ John O.,$172200.00
+ John T.,$42000.00
+ Jonathan D.,$130000.00
+ Jonathan D.,$130500.00
+ Jonathan D.,$42000.00
+ Jonathan E.,$172200.00
+ Jonathan I.,$130500.00
+ Jonathan I.,$75000.00
+ Joseph B.,$42000.00
+ Joseph B.,$56100.00
+ Joseph B.,$66300.00
+ Joshua D.,$155500.00
+ Joshua P.,$100000.00
+ Joshua R.,$113000.00
+ Joshua S.,$45000.00
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Jr.,Employee
+ Juan C.,$42000.00
+ Julianna S.,$150000.00
+ Kareem A.,$61200.00
+ Karen E.,$92001.00
+ Karen L.,$148510.00
+ Karine,$76500.00
+ Kate E.,$130500.00
+ Katelyn A.,$62500.00
+ Katherine B.,$90000.00
+ Katherine,$165000.00
+ Katherine,$130500.00
+ Katherine H.,$42000.00
+ Katherine H.,$45000.00
+ Katherine J.,$45900.00
+ Katherine J.,$90000.00
+ Katherine R.,$50000.00
+ Katherine Y.,$61200.00
+ Kathleen A.,$144868.00
+ Kathryn A.,$42000.00
+ Kathryn H.,$158500.00
+ Katy A.,$130500.00
+ Kay F.,$64439.00
+ Kelley S.,$42000.00
+ Kendall C.,$130500.00
+ Kevin R.,$42000.00
+ Kevin S.,$42000.00
+ Kimberley D.,$130500.00
+ Kimberly K.,$100000.00
+ Kori S.,$48450.00
+ Kristen E.,$51000.00
+ Kristen S.,$45900.00
+ Kristin J.,$60000.00
+ Kristin M.,$45000.00
+ Kristin T.,$42000.00
+ Kwesi A.,$42000.00
+ Kyle D. ,$45000.00
+ Latoya A.,$58511.00
+ Laura G.,$70000.00
+ Laura M.,$42000.00
+ Lauren E.,$45000.00
+ Lauren K.,$45000.00
+ Lauren P.,$50000.00
+ Lauren R.,$62000.00
+ Lawrence H.,$172200.00
+ Lilia H.,$58511.00
+ Linda M.,$66335.00
+ Linda S.,$113000.00
+ Lindsay A.,$42000.00
+ Lindsay E.,$66300.00
+ Lisa J.,$60000.00
+ Lisa M.,$158500.00
+ Lisa W.,$155500.00
+ Lottie B.,$63673.00
+ Louisa M.,$130500.00
+ Lucius L.,$56092.00
+ Luis A.,$78000.00
+ Madhuri,$71400.00
+ Manish,$42000.00
+ Mara L.,$92001.00
+ Mara L.,$42000.00
+ Margaret C.,$0.00
+ Margaret C.,$65000.00
+ Margaret T.,$120000.00
+ Margo E.,$45900.00
+ Maria A.,$42000.00
+ Maria L.,$42000.00
+ Marie J.,$55000.00
+ Marissa C.,$60000.00
+ Mark W.,$147500.00
+ Marne L.,$130500.00
+ Martha B.,$120000.00
+ Martin E.,$91800.00
+ Mary B.,$130500.00
+ Mary B.,$158500.00
+ MaryEllen C.,$91800.00
+ Mary F.,$45000.00
+ Mary G.,$42000.00
+ Mary J.,$89033.00
+ Mary K.,$60000.00
+ Mary N.,$155500.00
+ Mary U.,$70126.00
+ Matthew A.,$42000.00
+ Matthew A.,$65000.00
+ Matthew A.,$71400.00
+ Matthew J.,$42000.00
+ Matthew M.,$110000.00
+ Maude L.,$42000.00
+ Melissa,$102000.00
+ Melissa K.,$51000.00
+ Melody C.,$172200.00
+ Meredith M.,$42000.00
+ Meridith A.,$120000.00
+ Micaela J.,$102000.00
+ Micah F.,$42000.00
+ Michael A.,$139500.00
+ Michael A.,$61200.00
+ Michael A.,$66300.00
+ Michael C.,$140000.00
+ Michael J.,$114000.00
+ Michael L.,$56100.00
+ Michael M.,$179700.00
+ Michael P.,$113000.00
+ Michael P.,$56100.00
+ Michael R.,$42000.00
+ Michael R.,$45000.00
+ Michael R.,$45900.00
+ Michael T.,$42000.00
+ Michael W.,$45900.00
+ Moira K. M.,$66300.00
+ Mona K.,$172200.00
+ Mona K.,$80000.00
+ Monika,$45000.00
+ Myra B.,$73917.00
+ Nancy-Ann Min,$158500.00
+ Nancy D.,$145000.00
+ Natalie F.,$45000.00
+ Natalie M.,$42000.00
+ Natalie R.,$45900.00
+ Nathanael P.,$96900.00
+ Nicholas M.,$63240.00
+ Nicholas S.,$71400.00
+ Nicholas S.,$78000.00
+ Nicholas T.,$55000.00
+ Nicholas W.,$92001.00
+ Nicole T.,$42000.00
+ Nikki E.,$47500.00
+ Nnaji-Semayi K.,$42000.00
+ Noerena,$42000.00
+ Norman A.,$66300.00
+ Norman L.,$149000.00
+ Pascal J.,$59160.00
+ Patricia G.,$0.00
+ Patricia H.,$44402.00
+ Patrick H.,$172200.00
+ Patrick M.,$45000.00
+ Paul S.,$113605.00
+ Peter F.,$158500.00
+ Peter J.,$71400.00
+ Peter M.,$172200.00
+ Peter P.,$130500.00
+ Peter T.,$94969.00
+ Philip C.,$140259.00
+ Philip C.,$60232.00
+ Philip J.,$172000.00
+ Philip M.,$172200.00
+ Philip M.,$42000.00
+ Phyllis J.,$89033.00
+ Pravin D.,$50000.00
+ Rachana,$100000.00
+ Rachel I.,$42000.00
+ Rahm I.,$172200.00
+ Rebecca A.,$43656.00
+ Rebecca A.,$72000.00
+ Reginald L.,$102000.00
+ Reid H.,$78000.00
+ Rhonda M.,$57000.00
+ Rishi R.,$66300.00
+ Robert E.,$42000.00
+ Robert F.,$172200.00
+ Robert L.,$162500.00
+ Robert L.,$172200.00
+ Roberto J.,$114000.00
+ Roberto J.,$120000.00
+ Robert P.,$130500.00
+ Robin E.,$126251.00
+ Rodin A.,$80000.00
+ Rosarie G.,$51000.00
+ Russell M.,$66300.00
+ Ryan D.,$42000.00
+ Ryan M.,$56100.00
+ Samantha J.,$49000.00
+ Samantha L.,$123758.00
+ Samir S.,$56100.00
+ Samuel A.,$45000.00
+ Sarah B.,$42000.00
+ Sarah C.,$70000.00
+ Sarah E.,$50000.00
+ Sarah K.,$100000.00
+ Saumya N.,$50000.00
+ Sean D.,$130500.00
+ Sean F.,$120000.00
+ Semonti M.,$53550.00
+ Seth A.,$45000.00
+ Shale L.,$0.00
+ Shasti K. ,$42000.00
+ Shaun L.,$93840.00
+ Shawn P.,$158500.00
+ Shawn T.,$50000.00
+ Shelly O.,$130500.00
+ Sherman A.,$74958.00
+ Shilpa,$80000.00
+ Shilpa S.,$42000.00
+ Shinichi,$78000.00
+ Shirley C.,$55000.00
+ Smrthi,$70000.00
+ Sofia I.,$21000.00
+ Solomon D.,$56092.00
+ Sonal R.,$120000.00
+ Stacie M.,$42000.00
+ Stacy J.,$55000.00
+ Stephanie ,$172200.00
+ Stephanie M.,$61200.00
+ Stephen S.,$45000.00
+ Steven Y.,$148510.00
+ Susan M.,$158500.00
+ Susannah R.,$42000.00
+ Susan S.,$172200.00
+ Taeshonnda C.,$60232.00
+ Takesha R.,$43860.00
+ Tara C.,$45000.00
+ Taylor R.,$45000.00
+ Terry P.,$42000.00
+ Theodore A.,$60000.00
+ Theresa R.,$64439.00
+ Thomas E.,$172200.00
+ Thomas F.,$78000.00
+ Timothy J.,$71400.00
+ Timothy P.,$179700.00
+ Timothy R.,$45000.00
+ Travis R.,$42840.00
+ Trooper,$85000.00
+ Tyler A,$50000.00
+ Valerie B.,$172200.00
+ Valerie E.,$113000.00
+ Venkateswar N.,$75480.00
+ Vinson T.,$42000.00
+ Vy T.,$44402.00
+ Wanda M.,$74958.00
+ Wandra E.,$112774.00
+ Wendy W.,$84855.00
+ William A.,$113000.00
+ William B.,$80000.00
+ William J.,$42000.00
+ William O.,$89033.00
+ William W.,$106839.00
+ Zachary A.,$42000.00
+ Zulima L.,$130500.00
